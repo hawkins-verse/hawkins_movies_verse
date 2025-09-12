@@ -302,6 +302,9 @@ https://pixeldrain.dev/api/file/Y5yUQw5B?download&format=.mkv
 
 
 #EXTM3U
+#EXTINF:-1 tvg-name="Thammudu (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/5rhjx4KLaLrZNxzsBY8j8U6Pntu.jpg" type="movie" tvg-season="1" group-title="South Collection", Thammudu (2025)
+https://pixeldrain.dev/api/file/Qf5iqp8T?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Lokah Chapter 1: Chandra (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/eZn2u17WpuMKYpKESZGX2XOlwpT.jpg?download&format=.mkv" type="movie" tvg-season="1" group-title="Bollywood Collection", Lokah Chapter 1: Chandra (2025)
 https://pixeldrain.dev/api/file/QMGUDzGx?download&format=.mkv
 

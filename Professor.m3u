@@ -103,6 +103,9 @@ https://pixeldrain.dev/api/file/3yUR2Ukn?download&format=.mkv
 
 
 #EXTM3U
+#EXTINF:-1 tvg-name="Nobody 2" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/xyLGSKN4LCedxMh2jjxYHvBMC2f.jpg" type="movie" tvg-season="1" group-title="Hollywood Film Series", Nobody 2
+https://pixeldrain.dev/api/file/VrtTm6SA?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Jurassic Park (1993)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg" type="movie" tvg-season="1" group-title="Hollywood Film Series", Jurassic Park (1993)
 https://pixeldrain.dev/api/file/rsvgjgjg?download?download&format=.mkv
 
@@ -123,7 +126,6 @@ https://vod.johndupreedu.workers.dev/0:/Hollywood%20Collection%20/Jurassic%20Wor
 
 #EXTINF:-1 tvg-name="Jurassic World: Rebirth (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg" type="movie" tvg-season="1" group-title="Hollywood Film Series", Jurassic World: Rebirth (2025)
 https://vod.johndupreedu.workers.dev/0:/Latest%20Hollywood%202025/Jurassic%20World%20-%20Rebirth%20(2025)%202160p%20MA%20WEB-DL%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20x265%20(HONE-UHDMovies).mkv
-
 
 #EXTINF:-1 tvg-name="The Matrix (1999)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/p96dm7sCMn4VYAStA6siNz30G1r.jpg" type="movie" tvg-season="1" group-title="Hollywood Film Series", The Matrix (1999)
 https://pixeldrain.dev/api/file/QG2v6oDk?download&format=.mkv

@@ -175,7 +175,16 @@ https://pixeldrain.dev/api/file/GACtarbN?download
 #EXTM3U                                    ############ HOLLYWOOD HORROR MOVIES  #################
 
 
-# Saw (2004)
+#EXTM3U
+#EXTINF:-1 tvg-name="Kuntilanak AKA The Chanting Revisited (2018)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/3OMhDilxdIWUgpCkvV7kBEt3kN3.jpg" type="movie" tvg-season="1" group-title="Hollywood Horror", Kuntilanak AKA The Chanting Revisited (2018)
+https://pixeldrain.dev/api/file/EyLdUip9?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Kuntilanak 2 (2019)" tvg-language="hindi" tvg-logo="https://i.postimg.cc/j56BKMb5/image-search-1758044785624.jpg" type="movie" tvg-season="1" group-title="Hollywood Horror", Kuntilanak 2 (2019)
+https://pixeldrain.dev/api/file/pjQtw2ik?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Kuntilanak 3 (2022)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/5M917HtyOtllusZ9nrX9cUTr7nD.jpg" type="movie" tvg-season="1" group-title="Hollywood Horror", Kuntilanak 3 (2022)
+https://pixeldrain.dev/api/file/CEwg7p14?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Saw (2004)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/rLNSOudrayDBo1uqXjrhxcjODIC.jpg" type="movie" tvg-season="1" group-title="Hollywood Horror", Saw (2004)
 https://vod.johndupreedu.workers.dev/0:/Hollywood%20Horror%20/Saw%20(2004)%20UNRATED%20Dual%20Audio%20%7BHindi-English%7D%201080p%20HEVC%20(10Bit)%20BluRay%201.8GB%20ESub%20[BollYFlix].mkv
 

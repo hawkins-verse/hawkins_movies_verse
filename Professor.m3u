@@ -735,6 +735,37 @@ https://pixeldrain.dev/api/file/z3UaRaX5?download&format=.mkv
 https://pixeldrain.dev/api/file/akx5bBwn?download&format=.mkv
 
 
+#EXTM3U                  ************ DC NON-CINEMATIC ***********"*
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="Batman (1989)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/oYWUsIVoMl2H6Xl3FTBi9R9Y4OS.jpg" type="movie" tvg-season="1" group-title="DC Non-Cinematic", Batman (1989)
+https://pixeldrain.dev/api/file/SShsWYvH?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Batman Returns (1992)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/aKaW5pmO0IcguVOuyLavv1UnRxv.jpg" type="movie" tvg-season="1" group-title="DC Non-Cinematic", Batman Returns (1992)
+https://pixeldrain.dev/api/file/SjeDxfmV?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Batman Forever (1995)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/Ggg18ZponTPrsQiaUathFK6ZFU.jpg" type="movie" tvg-season="1" group-title="DC Non-Cinematic", Batman Forever (1995)
+https://pixeldrain.dev/api/file/3ZUrDAp2?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Batman & Robin (1997)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/8Dv8wDTEQqHMeMr7hr2FQc3aqTU.jpg" type="movie" tvg-season="1" group-title="DC Non-Cinematic", Batman & Robin (1997)
+https://pixeldrain.dev/api/file/Q7SpkicG?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Catwoman (2004)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/BXhIF7zDICkXanbYGflx0xqvm6.jpg" type="movie" tvg-season="1" group-title="DC Non-Cinematic", Catwoman (2004)
+https://pixeldrain.dev/api/file/uvZ7PGj7?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Superman Returns (2006)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg" type="movie" tvg-season="1" group-title="DC Non-Cinematic", Superman Returns (2006)
+https://pixeldrain.dev/api/file/iopTuvSv?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Joker (2019)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/mZuAPY4ETMQPHhCXIcJ90kd6RaS.jpg" type="movie" tvg-season="1" group-title="DC Non-Cinematic", Joker (2019)
+https://pixeldrain.dev/api/file/r5fYznwi?download&format=.mkv
+
+#EXTINF:-1 tvg-name="The Batman (2022)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg" type="movie" tvg-season="1" group-title="DC Non-Cinematic", The Batman (2022)
+https://pixeldrain.dev/api/file/z7rM4xHh?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Joker: Folie à Deux (2024)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg" type="movie" tvg-season="1" group-title="DC Non-Cinematic", Joker: Folie à Deux (2024)
+https://pixeldrain.dev/api/file/iDv1ryT5?download&format=.mkv
+
 
 
 #EXTM3U                                ************* KAPIL SHARMA SHOW - NETFLIX  *****************

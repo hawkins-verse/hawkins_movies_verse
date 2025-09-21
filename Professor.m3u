@@ -643,6 +643,29 @@ https://vod.johndupreedu.workers.dev/0:/MARVEL%20/MCU%20Collection%20/Phase%203/
 https://vod.johndupreedu.workers.dev/0:/MARVEL%20/MCU%20Collection%20/Phase%203/Spider-Man%20-%20Far%20from%20Home%20(2019)%20IMAX%202160p%204K%20UHD%20HDR10%20WEB-DL%20x265%20HEVC%20[Org%20UHD%20BD%205.1%20Hindi%20~%20640Kbps%20+%20DDP%207.1%20English]%20ESubs%20~%20CinemaLuxe.mkv
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Man of Steel (2013)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/7rIPjn5TUK04O25ZkMyHrGNPgLx.jpg" type="movie" tvg-season="1" group-title="DC Cinematic Universe", Man of Steel (2013)
+https://pixeldrain.dev/api/file/rGQfWXsz?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Batman v Superman: Dawn of Justice (2016)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/lQUFeo0oRvtiLKlT5zkQkuCW4jA.jpg" type="movie" tvg-season="1" group-title="DC Cinematic Universe", Batman v Superman: Dawn of Justice (2016)
+https://pixeldrain.dev/api/file/Q5GQqvz3?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Suicide Squad (2016)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg" type="movie" tvg-season="1" group-title="DC Cinematic Universe", Suicide Squad (2016)
+https://pixeldrain.dev/api/file/JnRQ652s?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Wonder Woman (2017)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/jz2DY4QuAnnYK3Gsm2h9b0mND7s.jpg" type="movie" tvg-season="1" group-title="DC Cinematic Universe", Wonder Woman (2017)
+https://pixeldrain.dev/api/file/aWszoUqT?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Justice League (2017)" tvg-language="hindi" tvg-logo="https://i.postimg.cc/gjK50Hvp/image-search-1758393300955.jpg" type="movie" tvg-season="1" group-title="DC Cinematic Universe", Justice League (2017)
+https://pixeldrain.dev/api/file/4S2hGaqC?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Aquaman (2018)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/oIDpaHSnTMYK0Cf5RkEoQzXPpBE.jpg" type="movie" tvg-season="1" group-title="DC Cinematic Universe", Aquaman (2018)
+https://pixeldrain.dev/api/file/3oboXwDF?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Shazam! (2019)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/xf22a5bMysUFJq9t0RQl8vZXhFl.jpg" type="movie" tvg-season="1" group-title="DC Cinematic Universe", Shazam! (2019)
+https://pixeldrain.dev/api/file/YYFJVf4i?download&format=.mkv
+
 
 #EXTM3U                                                 ************ PHASE 4 ************
 
@@ -684,6 +707,9 @@ https://vod.johndupreedu.workers.dev/0:/MARVEL%20/MCU%20Collection%20/Phase%205/
 
 #EXTINF:-1 tvg-name="Captain America: Brave New World (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/mFzFJc1XnGqaEbyac2KcCFJx8Uo.jpg" type="movie" tvg-season="5" group-title="MCU Collection 4K HDR", Captain America: Brave New World (2025)
 https://vod.johndupreedu.workers.dev/0:/MARVEL%20/MCU%20Collection%20/Phase%205/Captain.America.Brave.New.World.2025.2160p.UHD.BluRay.DV.HDR.10bit.HEVC.[Hindi.DDP.5.1.English.TrueHD.Atmos.7.1].x265.-%20moviesdrives.com.mkv
+
+
+
 
 
 #EXTM3U                                ************* KAPIL SHARMA SHOW - NETFLIX  *****************

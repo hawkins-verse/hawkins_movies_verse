@@ -1029,13 +1029,17 @@ https://pixeldrain.dev/api/file/ekpFB9XK?download?download&format=.mkv
 #EXTM3U                              ########## Chhota Bheem Collection — VOD Playlist ###########
 
 
-# for Chhota Bheem Aur Krishna (2008)
 #EXTINF:-1 tvg-name="Chhota Bheem Aur Krishna (2008)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/q5fxgssbSkQDS3McUmIFGAL3ChA.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Aur Krishna (2008)
 https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/[AtoZCartoonist]%20Chhota%20Bheem%20Aur%20Krishna%20(2008)%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
-# for Chhota Bheem and the Curse of Damyaan (2012)
+
 #EXTINF:-1 tvg-name="Chhota Bheem and the Curse of Damyaan (2012)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/wQvja2azMSrxYy30D9Skq76pdhz.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem and the Curse of Damyaan (2012)
 https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/[Tooonworld4all]%20Chhota%20Bheem%20and%20the%20Curse%20of%20Damyaan%20(2012)%201080p%20HD%20NF%20WEB-DL%20[Hindi-Eng-Tam-Tel]%20DD2.0%20ESub.mkv
-               .        
+    
+#EXTINF:-1 tvg-name="Chhota Bheem and the Throne of Bali (2013)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/sO83LPQhD5HrkDFihRRAt1F7Lu.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem and the Throne of Bali (2013)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem%20and%20the%20Throne%20of%20Bali%20(2013)%201080p%20HEVC%2010bit%20WEB-DL%20[Hindi-Tamil-Telugu]%20Multi%20Audio.mkv?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Kung Fu Dhamaka (2019)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/hmS7RNX35CkZrzDScD8gJS2Kg6E.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Kung Fu Dhamaka (2019)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem%20Kung%20Fu%20Dhamaka%20(2019)%201080p%20HEVC%2010bit%20AMZN%20WEB-DL%20[Hindi%20DDP5.1-Eng%20DDP5.1]%20MSubs.mkv?download&format=.mkv               .        
                
                
 #EXTM3U                                    ########## Ice Age Collection ############

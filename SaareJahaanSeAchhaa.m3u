@@ -4,6 +4,8 @@
 
 
 #EXTM3U
+#EXTINF:-1 tvg-name="Coolie 2025" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/oXc4MC5U9gzP2ZeD1nEgT89klRS.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Coolie 2025
+https://pixeldrain.dev/api/file/3eNM1j99?download&format=.mkv
 #EXTINF:-1 tvg-name="Jolly LLB 3 (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/lpHRMplk1P1EsBgo2NJTJ35Ygd8.jpg" type="movie" tvg-year="2025" group-title="Latest Bollywood 2025",Jolly LLB 3 (2025)
 https://pixeldrain.dev/api/file/hWcWxMQm?download&format=.mkv
 
@@ -14,7 +16,7 @@ https://pixeldrain.dev/api/file/DkKtpt7i?download?download&format=.mkv
 https://pixeldrain.dev/api/file/PKritiuG?download&format=.mkv
 
 #EXTINF:-1 tvg-name="War 2 (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/mq9Dc4xfdhbjrPbyg7xCmDAUXAJ.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", War 2 (2025)
-https://pixeldrain.dev/api/file/6ThGrA8M?download&format=.mkv
+https://pixeldrain.dev/api/file/UQ1KiSRa?download?download&format=.mkv
 
 #EXTINF:-1 tvg-name="Baaghi 4" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/u2YEFW5o2Y7RAw2K4hSA4TEXF3Q.jpg?download&format=.mkv" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Baaghi 4 (2025)
 https://pixeldrain.dev/api/file/mLaf8dLY?download&format=.mkv
@@ -74,7 +76,7 @@ https://pixeldrain.dev/api/file/3RrtNgSg?download&format=.mkv
 
 #EXTM3U
 #EXTINF:-1 tvg-name="The Conjuring: Last Rites" tvg-language="english" tvg-logo="https://image.tmdb.org/t/p/original/8XfIKOPmuCZLh5ooK13SPKeybWF.jpg?download&format=.mkv" type="movie" tvg-season="1" group-title="Latest Hollywood 2025", The Conjuring: Last Rites (2025)
-https://pixeldrain.dev/api/file/MsjfidfR?download&format=.mkv
+https://pixeldrain.dev/api/file/hUED5ohM?download?download&format=.mkv
 
 #EXTINF:-1 tvg-name="How to Train Your Dragon (2025) [IMAX] 4K HDR" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/u65DlnYIc9iUq4XW3QahLkw9wCR.jpg" type="movie" tvg-season="1" group-title="Latest Hollywood 2025", How to Train Your Dragon (2025) [IMAX] 4K HDR
 https://vod.johndupreedu.workers.dev/0:/Latest%20Hollywood%202025/How%20to%20Train%20Your%20Dragon%20(2025)%20IMAX%202160p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi-Tamil-Telugu%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20(StOiC-LUMiX).mkv

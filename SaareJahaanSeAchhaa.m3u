@@ -1083,8 +1083,44 @@ https://pixeldrain.dev/api/file/ekpFB9XK?download?download&format=.mkv
 
 #EXTM3U                              ########## Chhota Bheem Collection — VOD Playlist ###########
 
+#EXTM3U
+#EXTINF:-1 tvg-name="Chhota Bheem: Dholakpur to Kathmandu (2012)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/xgOG2qkL8CT7msXPMKAc298fMTA.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem: Dholakpur to Kathmandu (2012)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem_%20Dholakpur%20to%20Kathmandu%20(2012)%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
 
-#EXTINF:-1 tvg-name="Chhota Bheem Aur Krishna (2008)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/q5fxgssbSkQDS3McUmIFGAL3ChA.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Aur Krishna (2008)
+#EXTINF:-1 tvg-name="Chhota Bheem Aur Mayavi Gorgan" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/T3XkHg2C/image-search-1759863683787.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Aur Mayavi Gorgan
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem%20Aur%20Mayavi%20Gorgan%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Aur Banjara Masti" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/8z4LT6GZ/image-search-1759864560885.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Aur Banjara Masti
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/%20Chhota%20Bheem%20Aur%20Banjara%20Masti%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem: Singapura Ka Rahasya" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/x89zrf72/image-search-1759864928306.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem: Singapura Ka Rahasya
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem_%20Singapura%20Ka%20Rahasya%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Aur Chhalchhaya (2014)" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/65pNqsxv/image-search-1759865633101.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Aur Chhalchhaya (2014)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem%20Aur%20Chhalchhaya%20[1080p]%20HEVC%2010bit%20Multi%20Audio%20ESub.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Mission Mangalyaan (2015)" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/pdDy04Z8/image-search-1759866342578.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Mission Mangalyaan (2015)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/%20Chhota%20Bheem%20_%20Mission%20Mangalyaan%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Aur Kaalsura Ka Jaadui Jaal (2019)" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/MpZSk4qs/image-search-1759866968745.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Aur Kaalsura Ka Jaadui Jaal (2019)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem%20Aur%20Kaalsura%20Ka%20Jaadui%20Jaal%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Ka Roosi Romanch (2019)" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/50SgMPxn/image-search-1759866478640.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Ka Roosi Romanch (2019)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem%20Ka%20Roosi%20Romanch%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Aur Nawadir Ke Shehzaade (2019)" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/rpFxr8c5/image-search-1759866783582.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Aur Nawadir Ke Shehzaade (2019)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem%20Aur%20Nawadir%20Ke%20Shehzaade%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Aur Arazim Ka Raaz (2020)" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/C5g6W46r/image-search-1760062759333.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Aur Arazim Ka Raaz (2020)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/%20Chhota%20Bheem%20Aur%20Arazim%20Ka%20Raaz%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Ban Gaya Superstar (2020)" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/sXRcXg9C/image-search-1760062825715.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Ban Gaya Superstar (2020)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem%20Ban%20Gaya%20Superstar%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Ki Citi Pitti Gul (2021)" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/bw70Cw5k/image-search-1760062857501.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Ki Citi Pitti Gul (2021)
+https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/Chhota%20Bheem%20Ki%20Citi%20Pitti%20Gul%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
+
+#EXTINF:-1 tvg-name="Chhota Bheem Aur Krishna (2008)" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/fTkxMdnk/image-search-1759654325771.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem Aur Krishna (2008)
 https://vod.johndupreedu.workers.dev/0:/Chhota%20Bheem%20Collection%20/[AtoZCartoonist]%20Chhota%20Bheem%20Aur%20Krishna%20(2008)%20[1080p]%20HEVC%2010bit%20Multi%20Audio.mkv
 
 #EXTINF:-1 tvg-name="Chhota Bheem and the Curse of Damyaan (2012)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/wQvja2azMSrxYy30D9Skq76pdhz.jpg" type="movie" tvg-season="1" group-title="Chhota Bheem Collection", Chhota Bheem and the Curse of Damyaan (2012)

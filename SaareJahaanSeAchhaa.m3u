@@ -3,7 +3,14 @@
 #EXTM3U                                    ********** LATEST BOLLYWOOD 2025 **********
 
 
+
 #EXTM3U
+
+#EXTINF:-1 tvg-name="Baaghi 4" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/AtS98ox0Y1IqWZbyPlMnGbCaWzR.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Baaghi 4
+https://pixeldrain.dev/api/file/a47iU5nm?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Bhagwat - Chapter One: Raakshas (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/hXVDG74ykzadnIHtPpV8eZWwtZB.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Bhagwat - Chapter One: Raakshas (2025)
+https://pixeldrain.dev/api/file/rq5cd42a?download&format=.mkv
 #EXTINF:-1 tvg-name="Coolie 2025" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/oXc4MC5U9gzP2ZeD1nEgT89klRS.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Coolie 2025
 https://pixeldrain.dev/api/file/3eNM1j99?download&format=.mkv
 #EXTINF:-1 tvg-name="Jolly LLB 3 (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/lpHRMplk1P1EsBgo2NJTJ35Ygd8.jpg" type="movie" tvg-year="2025" group-title="Latest Bollywood 2025",Jolly LLB 3 (2025)
@@ -39,7 +46,12 @@ https://pixeldrain.dev/api/file/YiAwiMWV?download?download&format=.mkv
 
 #EXTM3U                                        *********** BOLLYWOOD COLLECTION ***********
 
+
 #EXTM3U
+
+#EXTINF:-1 tvg-name="Hit: The 2nd Case (2022)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/bL55VymeAELWheWXPGQCibMQroW.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Hit: The 2nd Case (2022)
+https://pixeldrain.dev/api/file/prErXdqb?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Baby John (2024)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/x8CJPpvkixhBk6IEp85VqYuwsZX.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Baby John (2024)
 https://pixeldrain.dev/api/file/RMeSLufM?download&format=.mkv
 
@@ -368,7 +380,23 @@ https://pixeldrain.dev/api/file/Y5yUQw5B?download&format=.mkv
 #EXTM3U                              ************** SOUTH MOVIES COLLECTION **************       
 
 
+
 #EXTM3U
+
+#EXTINF:-1 tvg-name="Kishkindhapuri (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/uRQ31dXsGHbiubJdObhGVzDiH3n.jpg" type="movie" tvg-season="1" group-title="South Collection", Kishkindhapuri (2025)
+https://pixeldrain.dev/api/file/o87aw4dn?download&format=.mkv
+
+#EXTINF:-1 tvg-name="THANAL (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/5CVSHJZBlTG5xF7UqrWTHquBLtX.jpg" type="movie" tvg-season="1" group-title="South Collection", THANAL (2025)
+https://pixeldrain.dev/api/file/YbhqoPTv?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Striking Rescue (2024)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/nML8rOI4GOiiEsXgknuhZeUF8M7.jpg" type="movie" tvg-season="1" group-title="South Collection", Striking Rescue (2024)
+https://pixeldrain.dev/api/file/K8BAwAFn?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Mafia Game for Life (2025)" tvg-language="hindi" tvg-logo="https://wallpapercat.com/w/full/3/e/2/1863288-1448x2048-phone-hd-mafia-game-series-background-image.jpg" type="movie" tvg-season="1" group-title="South Collection", Mafia Game for Life (2025)
+https://pixeldrain.dev/api/file/yfxcga6V?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Topakk (2024)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/vdOkAGW5dsNPcrjidhhokfu4AXe.jpg" type="movie" tvg-season="1" group-title="South Collection", Topakk (2024)
+https://pixeldrain.dev/api/file/RG94DK6L?download&format=.mkv
 #EXTINF:-1 tvg-name="Maine Pyar Kiya 2025" tvg-language="hindi" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY4YmIzNTctODNjMy00MzIwLTliYzQtZmZkOGI1MGU5MzhkXkEyXkFqcGc@.jpg" type="movie" tvg-season="1" group-title="South Collection", Maine Pyar Kiya 2025
 https://pixeldrain.dev/api/file/EBiGehK1?download&format=.mkv
 
@@ -502,6 +530,48 @@ https://pixeldrain.dev/api/file/rYX19anK?download?download&format=.mkv
 
 #EXTINF:-1 tvg-name="Hum Aapke Hain Koun..! (1994) - 1080p HQ" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/v5CutZgZgai1if2U2CPssiig7VW.jpg" type="movie" tvg-season="1" group-title="Hindi Movies(90's)", Hum Aapke Hain Koun..! (1994) - 1080p HQ
 https://pixeldrain.dev/api/file/UDZfpSvu?download?download&format=.mkv
+
+
+#EXTM3U                        ############  AMAZON PRIME VIDEO - WEB SERIES ############
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="S1 E1 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E1 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/HvLnWWaW?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E2 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E2 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/JVDg7phZ?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E3 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E3 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/jvbzhaTo?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E4 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E4 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/c5gyUGeQ?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E5 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E5 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/4xi2DTtg?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E6 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E6 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/iuE6XBxm?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E7 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E7 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/NXLVF4ck?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E8 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E8 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/jwixcK56?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E9 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E9 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/2JiAE5m4?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E10 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E10 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/v2Kcb7F7?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E11 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E11 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/nVa41s8n?download&format=.mkv
+
+#EXTINF:-1 tvg-name="S1 E12 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E12 : Confidence Queen (2025)
+https://pixeldrain.dev/api/file/qtaRsGJg?download&format=.mkv
 
 
 #EXTM3U                         ########################## BOLLYWOOD SERIES (FHD) #############################

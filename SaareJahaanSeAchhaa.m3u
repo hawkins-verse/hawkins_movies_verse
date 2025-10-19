@@ -5,14 +5,15 @@
 
 
 #EXTM3U
-
 #EXTINF:-1 tvg-name="Baaghi 4" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/AtS98ox0Y1IqWZbyPlMnGbCaWzR.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Baaghi 4
 https://pixeldrain.dev/api/file/a47iU5nm?download&format=.mkv
 
 #EXTINF:-1 tvg-name="Bhagwat - Chapter One: Raakshas (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/hXVDG74ykzadnIHtPpV8eZWwtZB.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Bhagwat - Chapter One: Raakshas (2025)
 https://pixeldrain.dev/api/file/rq5cd42a?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Coolie 2025" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/oXc4MC5U9gzP2ZeD1nEgT89klRS.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Coolie 2025
 https://pixeldrain.dev/api/file/3eNM1j99?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Jolly LLB 3 (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/lpHRMplk1P1EsBgo2NJTJ35Ygd8.jpg" type="movie" tvg-year="2025" group-title="Latest Bollywood 2025",Jolly LLB 3 (2025)
 https://pixeldrain.dev/api/file/hWcWxMQm?download&format=.mkv
 
@@ -25,14 +26,8 @@ https://pixeldrain.dev/api/file/PKritiuG?download&format=.mkv
 #EXTINF:-1 tvg-name="War 2 (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/mq9Dc4xfdhbjrPbyg7xCmDAUXAJ.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", War 2 (2025)
 https://pixeldrain.dev/api/file/UQ1KiSRa?download?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Baaghi 4" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/u2YEFW5o2Y7RAw2K4hSA4TEXF3Q.jpg?download&format=.mkv" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Baaghi 4 (2025)
-https://pixeldrain.dev/api/file/mLaf8dLY?download&format=.mkv
-
 #EXTINF:-1 tvg-name="Maalik (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/rnPeVGkXyGtyLfcLlk5TzMms6ue.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Maalik (2025)
 https://pixeldrain.dev/api/file/JNBKy5yp?download&format=.mkv
-
-#EXTINF:-1 tvg-name="Mahavatar Narsimha (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/uGTF87VyfjtwwqRlT2apQg5YnEp.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Mahavatar Narsimha (2025)
-https://pixeldrain.dev/api/file/QZVN1WyV?download?download&format=.mkv
 
 #EXTINF:-1 tvg-name="Aankhon Ki Gustaakhiyan (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/qaGwsUWbE4NU9w4u4UqomgvK6fw.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025",Aankhon Ki Gustaakhiyan (2025)
 https://pixeldrain.dev/api/file/VYnQML6W?download&format=.mkv
@@ -60,10 +55,11 @@ https://pixeldrain.dev/api/file/axmo7gkW?download&format=.mkv
 
 #EXTINF:-1 tvg-name="State of Siege: Temple Attack (2021) – ZEE5" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/nMWnGaxzffVeiovuAau8zmOCk0G.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", State of Siege: Temple Attack (2021) – ZEE5
 https://vod.johndupreedu.workers.dev/0:/Bollywood%20Collection%20/Copy%20of%20State%20of%20Siege%20Temple%20Attack%20(2021)%20Hindi%201080p%20WEB-DL%201.8GB%20ESub%20[BollYFlix].mkv
+
 #EXTINF:-1 tvg-name="Jannat 1 (2008)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/zhIm3WjaMAuBcTz5A0XDoVXQhVm.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Jannat 1 (2008)
 https://pixeldrain.dev/api/file/TkoYDXER?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Baahubali 2 SDR 4K" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/ccvMc6pQUBPrLP3qj9T0z3wDKEk.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Baahubali 2 SDR 4K
+#EXTINF:-1 tvg-name="Baahubali 2 SDR 4K" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/ccvMc6pQUBPrLP3qj9T0z3wDKEk.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Baahubali 2 : The Conclusion (4K SDR)
 https://vod.johndupreedu.workers.dev/0:/Bollywood%20Collection%20/Baahubali%202%20The%20Conclusion%20(2017)%202160p%204K%20UHD%20SDR%20BluRay%20x265%2010bit%20HEVC%20Multi%20Audio%20[Tel%20+%20Tam%20+%20Mal%20+%20Hin]%20DTS%20ESubs%20%20[Cinemaluxe.bond].mkv
 
 #EXTINF:-1 tvg-name="Jolly LLB" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/tnsmZV3qZM5hRbbtlEUj8x0wFMd.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Jolly LLB (2013)
@@ -95,6 +91,9 @@ https://pixeldrain.dev/api/file/3RrtNgSg?download&format=.mkv
 
 
 #EXTM3U
+#EXTINF:-1 tvg-name="Mafia Game for Life (2025)" tvg-language="hindi" tvg-logo="https://wallpapercat.com/w/full/3/e/2/1863288-1448x2048-phone-hd-mafia-game-series-background-image.jpg" type="movie" tvg-season="1" group-title="South Collection", Mafia Game for Life (2025)
+https://pixeldrain.dev/api/file/yfxcga6V?download&format=.mkv
+
 #EXTINF:-1 tvg-name="The Conjuring: Last Rites" tvg-language="english" tvg-logo="https://image.tmdb.org/t/p/original/8XfIKOPmuCZLh5ooK13SPKeybWF.jpg?download&format=.mkv" type="movie" tvg-season="1" group-title="Latest Hollywood 2025", The Conjuring: Last Rites (2025)
 https://pixeldrain.dev/api/file/hUED5ohM?download?download&format=.mkv
 
@@ -119,7 +118,15 @@ https://pub-8da86cc9cf474100820ae86da1062d3d.r2.dev/Movies4u.Foo.Final.Destinati
                   
 #EXTM3U                                  ############# HOLLYWOOD MOVIES COLLECTION ############
 
+
+
 #EXTM3U
+#EXTINF:-1 tvg-name="Striking Rescue (2024)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/nML8rOI4GOiiEsXgknuhZeUF8M7.jpg" type="movie" tvg-season="1" group-title="South Collection", Striking Rescue (2024)
+https://pixeldrain.dev/api/file/K8BAwAFn?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Topakk (2024)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/vdOkAGW5dsNPcrjidhhokfu4AXe.jpg" type="movie" tvg-season="1" group-title="South Collection", Topakk (2024)
+https://pixeldrain.dev/api/file/RG94DK6L?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Kidnapping Inc. (2024)" tvg-language="hindi" tvg-logo="https://i.postimg.cc/FzGsw4zZ/20251003-234501.jpg" type="movie" tvg-season="1" group-title="Hollywood Collection", Kidnapping Inc. (2024)
 https://pixeldrain.dev/api/file/kf7xmSrn?download&format=.mkv
 
@@ -380,23 +387,13 @@ https://pixeldrain.dev/api/file/Y5yUQw5B?download&format=.mkv
 #EXTM3U                              ************** SOUTH MOVIES COLLECTION **************       
 
 
-
 #EXTM3U
-
 #EXTINF:-1 tvg-name="Kishkindhapuri (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/uRQ31dXsGHbiubJdObhGVzDiH3n.jpg" type="movie" tvg-season="1" group-title="South Collection", Kishkindhapuri (2025)
 https://pixeldrain.dev/api/file/o87aw4dn?download&format=.mkv
 
 #EXTINF:-1 tvg-name="THANAL (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/5CVSHJZBlTG5xF7UqrWTHquBLtX.jpg" type="movie" tvg-season="1" group-title="South Collection", THANAL (2025)
 https://pixeldrain.dev/api/file/YbhqoPTv?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Striking Rescue (2024)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/nML8rOI4GOiiEsXgknuhZeUF8M7.jpg" type="movie" tvg-season="1" group-title="South Collection", Striking Rescue (2024)
-https://pixeldrain.dev/api/file/K8BAwAFn?download&format=.mkv
-
-#EXTINF:-1 tvg-name="Mafia Game for Life (2025)" tvg-language="hindi" tvg-logo="https://wallpapercat.com/w/full/3/e/2/1863288-1448x2048-phone-hd-mafia-game-series-background-image.jpg" type="movie" tvg-season="1" group-title="South Collection", Mafia Game for Life (2025)
-https://pixeldrain.dev/api/file/yfxcga6V?download&format=.mkv
-
-#EXTINF:-1 tvg-name="Topakk (2024)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/vdOkAGW5dsNPcrjidhhokfu4AXe.jpg" type="movie" tvg-season="1" group-title="South Collection", Topakk (2024)
-https://pixeldrain.dev/api/file/RG94DK6L?download&format=.mkv
 #EXTINF:-1 tvg-name="Maine Pyar Kiya 2025" tvg-language="hindi" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY4YmIzNTctODNjMy00MzIwLTliYzQtZmZkOGI1MGU5MzhkXkEyXkFqcGc@.jpg" type="movie" tvg-season="1" group-title="South Collection", Maine Pyar Kiya 2025
 https://pixeldrain.dev/api/file/EBiGehK1?download&format=.mkv
 

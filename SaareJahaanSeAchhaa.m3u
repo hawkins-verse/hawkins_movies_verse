@@ -6,14 +6,9 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Mirage (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/yLkc12tgINrE7KzSpjsFJnG0C6d.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Mirage (2025)
+#EXTINF:-1 tvg-name="Mirage (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/yLkc12tgINrE7KzSpjsFJnG0C6d.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Mirage (2025)
 https://pixeldrain.dev/api/file/GcbFMC5S?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Mirage (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/yLkc12tgINrE7KzSpjsFJnG0C6d.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Mirage (2025)
-https://pixeldrain.dev/api/file/GcbFMC5S?download&format=.mkv#EXTM3U
-
-#EXTINF:-1 tvg-name="Mirage (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/yLkc12tgINrE7KzSpjsFJnG0C6d.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Mirage (2025)
-https://pixeldrain.dev/api/file/GcbFMC5S?download&format=.mkv
 #EXTINF:-1 tvg-name="Baaghi 4" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/AtS98ox0Y1IqWZbyPlMnGbCaWzR.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Baaghi 4
 https://pixeldrain.dev/api/file/a47iU5nm?download&format=.mkv
 

@@ -96,6 +96,9 @@ https://pixeldrain.dev/api/file/3RrtNgSg?download&format=.mkv
 
 #EXTM3U
 
+#EXTINF:-1 tvg-name="The Monkey (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/2i3KrQdUAbMgSQAnSqeienj04mQ.jpg" type="movie" tvg-season="1" group-title="Latest Hollywood 2025", The Monkey (2025)
+https://pixeldrain.dev/api/file/hubuCGuD?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Baramulla (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/PtarG5FOl4swkTSh1AGaUKCFwg.jpg" type="movie" tvg-season="1" group-title="Latest Hollywood 2025", Baramulla (2025)
 https://pixeldrain.dev/api/file/GNknvSTn?download&format=.mkv
 
@@ -258,7 +261,13 @@ https://pixeldrain.dev/api/file/5qdQtV1t?download&format=.mkv
 
 #EXTM3U                                     ######### BOLLYWOOD HORRROR MOVIES ###########
 
+#EXTM3U   
 
+#EXTINF:-1 tvg-name="Vash (2023)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/u7M4LAaFVcwLr3sLsuORHPncTup.jpg" type="movie" tvg-season="1" group-title="South Collection", Vash (2023)
+https://pixeldrain.dev/api/file/9E3KENkF?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Vash Level 2 (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/lCHApvPEMJfbJuIHQLGO8JfWdAC.jpg" type="movie" tvg-season="1" group-title="South Collection", Vash Level 2 (2025)
+https://pixeldrain.dev/api/file/iVz3zgT2?download&format=.mkv
 #EXTINF:-1 tvg-name="Raaz Reboot 2016 (1080p)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/9S7KOgIFlr2F3Zv6dFK22rIeR1a.jpg" type="movie" tvg-season="1" group-title="Bollywood Horror", Raaz Reboot 2016 (1080p)
 https://pixeldrain.dev/api/file/i4hT5wVF?download&format=.mkv
 
@@ -420,6 +429,12 @@ https://pixeldrain.dev/api/file/Y5yUQw5B?download&format=.mkv
 
 
 #EXTM3U
+
+#EXTINF:-1 tvg-name="Daksha: The Deadly Conspiracy (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/vWCEdo3Oz0L9WM7uZ6CET5HoZfN.jpg" type="movie" tvg-season="1" group-title="South Collection", Daksha: The Deadly Conspiracy (2025)
+https://pixeldrain.dev/api/file/sThiiY4g?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Jhamkudi (2024)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/eSquSwWEALErUblkvdEUCG771up.jpg" type="movie" tvg-season="1" group-title="South Collection", Jhamkudi (2024)
+https://pixeldrain.dev/api/file/HwTjFc5j?download&format=.mkv
 
 #EXTINF:-1 tvg-name="The Real Jackpot (2013)" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/RZqCM4r2/image-search-1762601149036.jpg" type="movie" tvg-season="1" group-title="South Collection", The Real Jackpot (2013)
 https://pixeldrain.dev/api/file/RuNaAD6i?download&format=.mkv

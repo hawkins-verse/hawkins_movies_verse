@@ -263,11 +263,15 @@ https://pixeldrain.dev/api/file/5qdQtV1t?download&format=.mkv
 
 #EXTM3U   
 
-#EXTINF:-1 tvg-name="Vash (2023)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/u7M4LAaFVcwLr3sLsuORHPncTup.jpg" type="movie" tvg-season="1" group-title="South Collection", Vash (2023)
+#EXTINF:-1 tvg-name="Aseq (2023)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/dNJrK1uvoBPoYEVTAqI8ZSyrpdI.jpg" type="movie" tvg-season="1" group-title="Bollywood Horror", Aseq (2023)
+https://pixeldrain.dev/api/file/vg7KkKja?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Vash (2023)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/u7M4LAaFVcwLr3sLsuORHPncTup.jpg" type="movie" tvg-season="1" group-title="Hollywood Horror", Vash (2023)
 https://pixeldrain.dev/api/file/9E3KENkF?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Vash Level 2 (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/lCHApvPEMJfbJuIHQLGO8JfWdAC.jpg" type="movie" tvg-season="1" group-title="South Collection", Vash Level 2 (2025)
+#EXTINF:-1 tvg-name="Vash Level 2 (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/lCHApvPEMJfbJuIHQLGO8JfWdAC.jpg" type="movie" tvg-season="1" group-title="Hollywood Horror", Vash Level 2 (2025)
 https://pixeldrain.dev/api/file/iVz3zgT2?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Raaz Reboot 2016 (1080p)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/9S7KOgIFlr2F3Zv6dFK22rIeR1a.jpg" type="movie" tvg-season="1" group-title="Bollywood Horror", Raaz Reboot 2016 (1080p)
 https://pixeldrain.dev/api/file/i4hT5wVF?download&format=.mkv
 
@@ -580,46 +584,103 @@ https://pixeldrain.dev/api/file/rYX19anK?download?download&format=.mkv
 https://pixeldrain.dev/api/file/UDZfpSvu?download?download&format=.mkv
 
 
-#EXTM3U                        ############  AMAZON PRIME VIDEO - WEB SERIES ############
+#EXTM3U                        ############  HOLLLYWOOD WEBSERIES - AMAZON ############
 
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="S1 E1 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E1 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/HvLnWWaW?download&format=.mkv
+Format ka baap, [10-11-2025 00:40]
+#EXTINF:-1 tvg-name="From • S1:E1" tvg-language="hindi" tvg-logo="https://i.postimg.cc/pr2yD1rM/image-search-1762714180063.jpg" type="movie" tvg-season="1" group-title="Hollywood Webseries (AMZN)", S1:E1 • From (2022)
+https://pixeldrain.dev/api/file/HP4orMga?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E2 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E2 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/JVDg7phZ?download&format=.mkv
+#EXTINF:-1 tvg-name="From • S1:E2" tvg-language="hindi" tvg-logo="https://i.postimg.cc/pr2yD1rM/image-search-1762714180063.jpg" type="movie" tvg-season="1" group-title="Hollywood Webseries (AMZN)", S1:E2 • From (2022)
+https://pixeldrain.dev/api/file/R7Bq7RbU?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E3 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E3 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/jvbzhaTo?download&format=.mkv
+#EXTINF:-1 tvg-name="From • S1:E3" tvg-language="hindi" tvg-logo="https://i.postimg.cc/pr2yD1rM/image-search-1762714180063.jpg" type="movie" tvg-season="1" group-title="Hollywood Webseries (AMZN)", S1:E3 • From (2022)
+https://pixeldrain.dev/api/file/Wi9PSoMg?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E4 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E4 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/c5gyUGeQ?download&format=.mkv
+#EXTINF:-1 tvg-name="From • S1:E4" tvg-language="hindi" tvg-logo="https://i.postimg.cc/pr2yD1rM/image-search-1762714180063.jpg" type="movie" tvg-season="1" group-title="Hollywood Webseries (AMZN)", S1:E4 • From (2022)
+https://pixeldrain.dev/api/file/8a1KvKwQ?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E5 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E5 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/4xi2DTtg?download&format=.mkv
+#EXTINF:-1 tvg-name="From • S1:E5" tvg-language="hindi" tvg-logo="https://i.postimg.cc/pr2yD1rM/image-search-1762714180063.jpg" type="movie" tvg-season="1" group-title="Hollywood Webseries (AMZN)", S1:E5 • From (2022)
+https://pixeldrain.dev/api/file/4X5vbhQq?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E6 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E6 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/iuE6XBxm?download&format=.mkv
+#EXTINF:-1 tvg-name="From • S1:E6" tvg-language="hindi" tvg-logo="https://i.postimg.cc/pr2yD1rM/image-search-1762714180063.jpg" type="movie" tvg-season="1" group-title="Hollywood Webseries (AMZN)", S1:E6 • From (2022)
+https://pixeldrain.dev/api/file/5iwirc9b?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E7 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E7 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/NXLVF4ck?download&format=.mkv
+#EXTINF:-1 tvg-name="From • S1:E7" tvg-language="hindi" tvg-logo="https://i.postimg.cc/pr2yD1rM/image-search-1762714180063.jpg" type="movie" tvg-season="1" group-title="Hollywood Webseries (AMZN)", S1:E7 • From (2022)
+https://pixeldrain.dev/api/file/9BLxr96F?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E8 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E8 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/jwixcK56?download&format=.mkv
+#EXTINF:-1 tvg-name="From • S1:E8" tvg-language="hindi" tvg-logo="https://i.postimg.cc/pr2yD1rM/image-search-1762714180063.jpg" type="movie" tvg-season="1" group-title="Hollywood Webseries (AMZN)", S1:E8 • From (2022)
+https://pixeldrain.dev/api/file/9yjDX6ny?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E9 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E9 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/2JiAE5m4?download&format=.mkv
+#EXTINF:-1 tvg-name="From • S1:E9" tvg-language="hindi" tvg-logo="https://i.postimg.cc/pr2yD1rM/image-search-1762714180063.jpg" type="movie" tvg-season="1" group-title="Hollywood Webseries (AMZN)", S1:E9 • From (2022)
+https://pixeldrain.dev/api/file/6rzkBupk?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E10 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E10 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/v2Kcb7F7?download&format=.mkv
+#EXTINF:-1 tvg-name="From • S1:E10" tvg-language="hindi" tvg-logo="https://i.postimg.cc/pr2yD1rM/image-search-1762714180063.jpg" type="movie" tvg-season="1" group-title="Hollywood Webseries (AMZN)", S1:E10 • From (2022)
+https://pixeldrain.dev/api/file/hUMQSohr?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E11 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E11 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/nVa41s8n?download&format=.mkv
+Format ka baap, [10-11-2025 00:46]
+#EXTINF:-1 tvg-name="From • S2:E1" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HnX4xLnT/image-search-1762715689117.jpg" type="movie" tvg-season="2" group-title="Hollywood Webseries (AMZN)", S2:E1 • From (2022)
+https://pixeldrain.dev/api/file/YtvvYBCx?download&format=.mkv
 
-#EXTINF:-1 tvg-name="S1 E12 : Confidence Queen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4EhwotYlaCPfTuNUx1sXgpUqJqs.jpg" type="series" tvg-season="1" group-title="Amazon Prime Video", S1 E12 : Confidence Queen (2025)
-https://pixeldrain.dev/api/file/qtaRsGJg?download&format=.mkv
+#EXTINF:-1 tvg-name="From • S2:E2" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HnX4xLnT/image-search-1762715689117.jpg" type="movie" tvg-season="2" group-title="Hollywood Webseries (AMZN)", S2:E2 • From (2022)
+https://pixeldrain.dev/api/file/T9rtzx7p?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S2:E3" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HnX4xLnT/image-search-1762715689117.jpg" type="movie" tvg-season="2" group-title="Hollywood Webseries (AMZN)", S2:E3 • From (2022)
+https://pixeldrain.dev/api/file/pifaUBfx?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S2:E4" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HnX4xLnT/image-search-1762715689117.jpg" type="movie" tvg-season="2" group-title="Hollywood Webseries (AMZN)", S2:E4 • From (2022)
+https://pixeldrain.dev/api/file/Tp2Drike?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S2:E5" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HnX4xLnT/image-search-1762715689117.jpg" type="movie" tvg-season="2" group-title="Hollywood Webseries (AMZN)", S2:E5 • From (2022)
+https://pixeldrain.dev/api/file/BK2oxoV9?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S2:E6" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HnX4xLnT/image-search-1762715689117.jpg" type="movie" tvg-season="2" group-title="Hollywood Webseries (AMZN)", S2:E6 • From (2022)
+https://pixeldrain.dev/api/file/fY2aeZF7?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S2:E7" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HnX4xLnT/image-search-1762715689117.jpg" type="movie" tvg-season="2" group-title="Hollywood Webseries (AMZN)", S2:E7 • From (2022)
+https://pixeldrain.dev/api/file/y4BHw4aq?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S2:E8" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HnX4xLnT/image-search-1762715689117.jpg" type="movie" tvg-season="2" group-title="Hollywood Webseries (AMZN)", S2:E8 • From (2022)
+https://pixeldrain.dev/api/file/aiA4MYQ7?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S2:E9" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HnX4xLnT/image-search-1762715689117.jpg" type="movie" tvg-season="2" group-title="Hollywood Webseries (AMZN)", S2:E9 • From (2022)
+https://pixeldrain.dev/api/file/MTzg8kdt?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S2:E10" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HnX4xLnT/image-search-1762715689117.jpg" type="movie" tvg-season="2" group-title="Hollywood Webseries (AMZN)", S2:E10 • From (2022)
+https://pixeldrain.dev/api/file/wKkrjYJo?download&format=.mkv
+
+Format ka baap, [10-11-2025 00:48]
+#EXTINF:-1 tvg-name="From • S3:E1" tvg-language="hindi" tvg-logo="https://i.postimg.cc/8z0F2Skk/image-search-1762715714171.jpg" type="movie" tvg-season="3" group-title="Hollywood Webseries (AMZN)", S3:E1 • From (2022)
+https://pixeldrain.dev/api/file/CsFzCsVQ?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S3:E2" tvg-language="hindi" tvg-logo="https://i.postimg.cc/8z0F2Skk/image-search-1762715714171.jpg" type="movie" tvg-season="3" group-title="Hollywood Webseries (AMZN)", S3:E2 • From (2022)
+https://pixeldrain.dev/api/file/1fqnaLhi?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S3:E3" tvg-language="hindi" tvg-logo="https://i.postimg.cc/8z0F2Skk/image-search-1762715714171.jpg" type="movie" tvg-season="3" group-title="Hollywood Webseries (AMZN)", S3:E3 • From (2022)
+https://pixeldrain.dev/api/file/ataB5gnx?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S3:E4" tvg-language="hindi" tvg-logo="https://i.postimg.cc/8z0F2Skk/image-search-1762715714171.jpg" type="movie" tvg-season="3" group-title="Hollywood Webseries (AMZN)", S3:E4 • From (2022)
+https://pixeldrain.dev/api/file/UE7s3bFk?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S3:E5" tvg-language="hindi" tvg-logo="https://i.postimg.cc/8z0F2Skk/image-search-1762715714171.jpg" type="movie" tvg-season="3" group-title="Hollywood Webseries (AMZN)", S3:E5 • From (2022)
+https://pixeldrain.dev/api/file/DTYVT4LY?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S3:E6" tvg-language="hindi" tvg-logo="https://i.postimg.cc/8z0F2Skk/image-search-1762715714171.jpg" type="movie" tvg-season="3" group-title="Hollywood Webseries (AMZN)", S3:E6 • From (2022)
+https://pixeldrain.dev/api/file/A1MkKxEV?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S3:E7" tvg-language="hindi" tvg-logo="https://i.postimg.cc/8z0F2Skk/image-search-1762715714171.jpg" type="movie" tvg-season="3" group-title="Hollywood Webseries (AMZN)", S3:E7 • From (2022)
+https://pixeldrain.dev/api/file/tChcCYND?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S3:E8" tvg-language="hindi" tvg-logo="https://i.postimg.cc/8z0F2Skk/image-search-1762715714171.jpg" type="movie" tvg-season="3" group-title="Hollywood Webseries (AMZN)", S3:E8 • From (2022)
+https://pixeldrain.dev/api/file/YdRzpisK?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S3:E9" tvg-language="hindi" tvg-logo="https://i.postimg.cc/8z0F2Skk/image-search-1762715714171.jpg" type="movie" tvg-season="3" group-title="Hollywood Webseries (AMZN)", S3:E9 • From (2022)
+https://pixeldrain.dev/api/file/nJzNW35D?download&format=.mkv
+
+#EXTINF:-1 tvg-name="From • S3:E10" tvg-language="hindi" tvg-logo="https://i.postimg.cc/8z0F2Skk/image-search-1762715714171.jpg" type="movie" tvg-season="3" group-title="Hollywood Webseries (AMZN)", S3:E10 • From (2022)
+https://pixeldrain.dev/api/file/uBuaxAUB?download&format=.mkv
 
 
 #EXTM3U                         ########################## BOLLYWOOD SERIES (FHD) #############################
@@ -1205,6 +1266,12 @@ https://pixeldrain.dev/api/file/PDjXrgmM?download&format=.mkv
 https://pixeldrain.dev/api/file/ekpFB9XK?download?download&format=.mkv
 
 
+#EXTM3U                             ########## 3D CARTOON MOVIES ################
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Migration (2023)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/apQL85BMRgkBWQq6pBXKOLfCyaV.jpg" type="movie" tvg-season="1" group-title="3D Cartoons", Migration (2023)
+https://pixeldrain.dev/api/file/k3w2WJF4?download&format=.mkv
 
 
 #EXTM3U                              ########## Chhota Bheem Collection — VOD Playlist ###########

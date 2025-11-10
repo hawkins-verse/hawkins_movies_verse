@@ -48,6 +48,15 @@ https://pixeldrain.dev/api/file/YiAwiMWV?download?download&format=.mkv
 
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Dhoom (2004)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/A3GBoQROHP0WjU9RXzlDU0iG3be.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Dhoom (2004)
+https://vod.johndupreedu.workers.dev/0:/Bollywood%20Collection%20/Dhoom%202004%20BluRay%20Hindi%201080p%20x264%20DD%205.1%20ESub%20-%20Vegamovies.NL.mkv?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Dhoom 2 (2006)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/3zJLnrP9g9LSMpX5C1wau49gGUv.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Dhoom 2 (2006)
+https://pixeldrain.dev/api/file/eG9kwnxi?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Dhoom 3 (2013)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/rUVTM5EQUQ2I0fcfE46AkvBYWae.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Dhoom 3 (2013)
+https://pixeldrain.dev/api/file/cmiyqTdr?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Hit: The 2nd Case (2022)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/bL55VymeAELWheWXPGQCibMQroW.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Hit: The 2nd Case (2022)
 https://pixeldrain.dev/api/file/prErXdqb?download&format=.mkv
 

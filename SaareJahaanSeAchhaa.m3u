@@ -105,6 +105,9 @@ https://pixeldrain.dev/api/file/3RrtNgSg?download&format=.mkv
 
 #EXTM3U
 
+#EXTINF:-1 tvg-name="The Fantastic Four: First Steps (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/uhPYs2syfbNG8O0elrrdLtuaD4a.jpg" type="movie" tvg-season="1" group-title="Latest Hollywood 2025", The Fantastic Four: First Steps (2025)
+https://vod.johndupreedu.workers.dev/0:/Latest%20Hollywood%202025/The%20Fantastic%20Four%20-%20First%20Steps%20(2025)%202160p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi-Tamil-Telugu%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20(ATELiER-LUMiX).mkv?download&format=.mkv
+
 #EXTINF:-1 tvg-name="The Monkey (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/2i3KrQdUAbMgSQAnSqeienj04mQ.jpg" type="movie" tvg-season="1" group-title="Latest Hollywood 2025", The Monkey (2025)
 https://pixeldrain.dev/api/file/hubuCGuD?download&format=.mkv
 

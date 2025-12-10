@@ -357,8 +357,8 @@ https://white-math-f062.ayushbansal7974-d0e.workers.dev/0:/Shinchan%20Movies/Cra
 
 
 #EXTM3U   ############################
-          ###  Gachiakuta Season 1 ###
-          ############################
+#EXTM3U   ###  Gachiakuta Season 1 ###
+#EXTM3U   ############################
 
 #EXTINF:-1 tvg-name="Gachiakuta (2025) • S1E1" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg" group-title="Gachiakuta", Gachiakuta • S1 : E1 (2025)
 https://pixeldrain.dev/api/file/Yq6d59X2?download&format=.mkv
@@ -402,8 +402,8 @@ https://pixeldrain.dev/api/file/VQmorxV9?download&format=.mkv
 
 
 #EXTM3U ############################
-        ### Gachiakuta Season 2 ###
-       ############################
+#EXTM3U ### Gachiakuta Season 2 ###
+#EXTM3U ############################
 
 #EXTINF:-1 tvg-name="Gachiakuta (2025) • S2E1" group-title="Gachiakuta" tvg-logo="https://image.tmdb.org/t/p/original/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg", Gachiakuta • S2 : E1 (2025)
 https://pixeldrain.dev/api/file/BWBNg1JY?download&format=.mkv

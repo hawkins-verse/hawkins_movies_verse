@@ -282,12 +282,6 @@ https://white-math-f062.ayushbansal7974-d0e.workers.dev/0:/Comedy%20Movies%20/Py
 #EXTINF:-1 tvg-name="Delhi Belly (2011)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/hGmjlOFPaqwxAxR3XDvalExTlXd.jpg" type="movie" tvg-season="1" group-title="Comedy Movies", Delhi Belly (2011)
 https://white-math-f062.ayushbansal7974-d0e.workers.dev/0:/Comedy%20Movies%20/Delhi%20Belly%20(2011)%20Hindi%201080p%20WEB-DL%20ESub%20[BollyFlix].mkv
 
-#EXTM3U                                   ****************** Chinese & Korean Movies *****************
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="Mantis 2025" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/jnvPH8kFc1yTqCJ2SzN39g3edv4.jpg" type="movie" tvg-season="1" group-title="Chinese & Korean Movies", Mantis 2025
-https://pixeldrain.dev/api/file/5qdQtV1t?download&format=.mkv                                   
 
 
 #EXTM3U                                     ######### BOLLYWOOD HORRROR MOVIES ###########
@@ -378,45 +372,55 @@ https://pixeldrain.dev/api/file/NywHVNqn?download&format=.mkv
 
 
 
-#EXTM3U                              ########### SOUTH/BOLLY ROMANTIC COLLECTION ###############
+#EXTM3U                              ########### BOLLYWOOD ROMANTIC COLLECTION ###############
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="Raanjhanaa (2013)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/28aAXMpG3SZ5AW2TdVpBa5PQqdJ.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Raanjhanaa (2013)
+#EXTINF:-1 tvg-name="Raanjhanaa (2013)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/28aAXMpG3SZ5AW2TdVpBa5PQqdJ.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Raanjhanaa (2013)
 https://pixeldrain.dev/api/file/xyt43fx9?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Tere Naam (2003)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/tnsOmOZsVdfLLwK693TCtSZpvFX.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Tere Naam (2003)
+#EXTINF:-1 tvg-name="Tere Naam (2003)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/tnsOmOZsVdfLLwK693TCtSZpvFX.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Tere Naam (2003)
 https://pixeldrain.dev/api/file/gJEvX8aP?download&format=.mkv
 
-#EXTINF:-1 tvg-name="CityLights (2014)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/rrzypABFDyTpwbTLbmsXU9A8qEM.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", CityLights (2014)
+#EXTINF:-1 tvg-name="CityLights (2014)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/rrzypABFDyTpwbTLbmsXU9A8qEM.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", CityLights (2014)
 https://pixeldrain.dev/api/file/xLJiSysx?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Hamari Adhuri Kahani (2015)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/5NfUxRtuy3bFRR6b6naI2ToXY2s.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Hamari Adhuri Kahani (2015)
+#EXTINF:-1 tvg-name="Hamari Adhuri Kahani (2015)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/5NfUxRtuy3bFRR6b6naI2ToXY2s.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Hamari Adhuri Kahani (2015)
 https://pixeldrain.dev/api/file/o6Wf5iNW?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Sanam Teri Kasam (2016)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/3jKqSy87GVUsXdhwhcO7O1UqrjO.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Sanam Teri Kasam (2016)
+#EXTINF:-1 tvg-name="Sanam Teri Kasam (2016)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/3jKqSy87GVUsXdhwhcO7O1UqrjO.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Sanam Teri Kasam (2016)
 https://pixeldrain.dev/api/file/2qCLfxza?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Sanam Re (2016)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/aKnECWu7IxqoT2G1o8BYUB949iQ.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Sanam Re (2016)
+#EXTINF:-1 tvg-name="Sanam Re (2016)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/aKnECWu7IxqoT2G1o8BYUB949iQ.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Sanam Re (2016)
 https://pixeldrain.dev/api/file/wf12j4W2?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Junooniyat (2016)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/A9gxJ3D3MQ38DrKWipbY6GVjdkb.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Junooniyat (2016)
+#EXTINF:-1 tvg-name="Junooniyat (2016)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/A9gxJ3D3MQ38DrKWipbY6GVjdkb.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Junooniyat (2016)
 https://pixeldrain.dev/api/file/BCkLsEUH?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Do Lafzon Ki Kahani (2016)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/yvWHmmWK8ZrGgnyLCBWw4rwnvS8.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Do Lafzon Ki Kahani (2016)
+#EXTINF:-1 tvg-name="Do Lafzon Ki Kahani (2016)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/yvWHmmWK8ZrGgnyLCBWw4rwnvS8.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Do Lafzon Ki Kahani (2016)
 https://pixeldrain.dev/api/file/Kjqva1zG?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Behen Hogi Teri (2017)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/2zdhiVMVrHFu5J2LarF5bHhSabM.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Behen Hogi Teri (2017)
+#EXTINF:-1 tvg-name="Behen Hogi Teri (2017)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/2zdhiVMVrHFu5J2LarF5bHhSabM.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Behen Hogi Teri (2017)
 https://pixeldrain.dev/api/file/cqMC2SLT?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Jalebi (2018)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/pIJYLvMMWTsEpNFVxU6YwTzdOzL.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Jalebi (2018)
+#EXTINF:-1 tvg-name="Jalebi (2018)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/pIJYLvMMWTsEpNFVxU6YwTzdOzL.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Jalebi (2018)
 https://pixeldrain.dev/api/file/KJoAzFdV?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Notebook (2019)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/67ODRpKeB37stvxfUYbTbTtKFNo.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Notebook (2019)
+#EXTINF:-1 tvg-name="Notebook (2019)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/67ODRpKeB37stvxfUYbTbTtKFNo.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Notebook (2019)
 https://pixeldrain.dev/api/file/n8Y5Jtmn?download&format=.mkv
 
-#EXTINF:-1 tvg-name="Shiddat (2021)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/s7bzuNelHXe8SjbhuUi9R7zCwo8.jpg" type="movie" tvg-season="1" group-title="Bolly/South Romantic", Shiddat (2021)
+#EXTINF:-1 tvg-name="Shiddat (2021)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/s7bzuNelHXe8SjbhuUi9R7zCwo8.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Shiddat (2021)
 https://pixeldrain.dev/api/file/Y5yUQw5B?download&format=.mkv
+
+
+
+#EXTM3U                              ************* SOUTH MOVIES ROMANTIC ***************
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="A.Aa - 1080p (2016)" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HWRxvm6f/5zf3-OZv-Baqtixr3-SF0smh-Npc8-JF.webp" type="movies" tvg-season="1" group-title="South Collection", A.Aa (2016).1080p
+https://pub-0e14fb84b5384fe1ab61022042ea166d.r2.dev/A%20AA%202016%20WebDL%201080p%20Hindi%20Telugu%202.0%20x264%20ESub%20-%20Vegamovies.NL.mkv
 
 
 
@@ -565,9 +569,6 @@ https://pixeldrain.dev/api/file/qYSRgPe7?download&format=.mkv
 
 #EXTINF:-1 tvg-name="Rorschach" tvg-language="malayalam" tvg-logo="https://joker-boro.onrender.com/api/imdb/tt19886242.jpg" type="movie" tvg-season="1" group-title="South Collection", Rorschach (2022)
 https://pixeldrain.dev/api/file/ZqnvDnHw?download&format=.mkv
-
-#EXTINF:-1 tvg-name="A.Aa - 1080p (2016)" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HWRxvm6f/5zf3-OZv-Baqtixr3-SF0smh-Npc8-JF.webp" type="movies" tvg-season="1" group-title="South Collection", A.Aa (2016).1080p
-https://pub-0e14fb84b5384fe1ab61022042ea166d.r2.dev/A%20AA%202016%20WebDL%201080p%20Hindi%20Telugu%202.0%20x264%20ESub%20-%20Vegamovies.NL.mkv
                                     
                                      
                                      

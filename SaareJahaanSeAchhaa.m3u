@@ -4,6 +4,10 @@
 
 
 #EXTM3U
+
+#EXTINF:-1 tvg-name="Ek Deewane Ki Deewaniyat (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Dhurandhar (2025)
+?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Dhurandhar (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/1jUSvLOn6kg1z4GpJwUfY0qMhp6.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Dhurandhar (2025)
 ?download&format=.mkv
 
@@ -419,7 +423,7 @@ https://pixeldrain.dev/api/file/Y5yUQw5B?download&format=.mkv
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="A.Aa - 1080p (2016)" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HWRxvm6f/5zf3-OZv-Baqtixr3-SF0smh-Npc8-JF.webp" type="movies" tvg-season="1" group-title="South Collection", A.Aa (2016).1080p
+#EXTINF:-1 tvg-name="A.Aa (2016)" tvg-language="hindi" tvg-logo="https://i.postimg.cc/HWRxvm6f/5zf3-OZv-Baqtixr3-SF0smh-Npc8-JF.webp" type="movies" tvg-season="1" group-title="South Romantic", A.Aa (2016)
 https://pub-0e14fb84b5384fe1ab61022042ea166d.r2.dev/A%20AA%202016%20WebDL%201080p%20Hindi%20Telugu%202.0%20x264%20ESub%20-%20Vegamovies.NL.mkv
 
 

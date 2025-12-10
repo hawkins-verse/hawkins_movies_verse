@@ -10,6 +10,9 @@
 #EXTINF:-1 tvg-name="Tere Ishq Mein (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/202OPACm131duqf5oqoZox2SXx2.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Tere Ishq Mein (2025)
 ?download&format=.mkv
 
+#EXTINF:-1 tvg-name="Thamma (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Thamma (2025)
+https://pixeldrain.dev/api/file/FgDjPidY?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Sunny Sanskari Ki Tulsi Kumari (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/h3lncTnK86R8XylpXgpe0JfU1wm.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Sunny Sanskari Ki Tulsi Kumari (2025)
 https://pixeldrain.dev/api/file/hsrCt9KT?download&format=.mkv
 
@@ -421,10 +424,12 @@ https://pixeldrain.dev/api/file/Y5yUQw5B?download&format=.mkv
 
 
 #EXTM3U
-#EXTM3U
 
-#EXTINF:-1 tvg-name="Thamma (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg" type="movie" tvg-season="1" group-title="South Collection", Thamma (2025)
-https://pixeldrain.dev/api/file/FgDjPidY?download&format=.mkv
+#EXTINF:-1 tvg-name="Stephen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/zht2iAMV2hh99ZpXl2T9offt0tt.jpg" type="movie" tvg-season="1" group-title="South Collection", Stephen (2025)
+https://pixeldrain.dev/api/file/dxLDBXwm?download&format=.mkv
+
+#EXTINF:-1 tvg-name="The Girlfriend (2025) 4K" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/rkD9PK1JUQ6ogebaBac8T7JPADL.jpg" type="movie" tvg-season="1" group-title="South Collection", The Girlfriend (2025) 4K
+https://pub-6b25c191839c4b01a878de4fdde0227b.r2.dev/bc3251b715cd5c3993caa24e339a999e?token=1765332912
 
 #EXTINF:-1 tvg-name="Daksha: The Deadly Conspiracy (2025)" tvg-language="Hindi" tvg-logo="https://image.tmdb.org/t/p/original/vWCEdo3Oz0L9WM7uZ6CET5HoZfN.jpg" type="movie" tvg-season="1" group-title="South Collection", Daksha: The Deadly Conspiracy (2025)
 https://pixeldrain.dev/api/file/sThiiY4g?download&format=.mkv

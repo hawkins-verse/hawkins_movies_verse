@@ -481,6 +481,8 @@ https://pixeldrain.dev/api/file/WfeHxyV1?download&format=.mkv
 
 
 #EXTM3U
+#EXTINF:-1 tvg-name="Mass Jathara (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/2qjiJ80nZTL7byz7imC31DeXdel.jpg" type="movie" tvg-season="" group-title="South Collection", Mass Jathara (2025)
+https://pixeldrain.dev/api/file/G5GLiGar?download&format=.mkv
 
 #EXTINF:-1 tvg-name="Stephen (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/zht2iAMV2hh99ZpXl2T9offt0tt.jpg" type="movie" tvg-season="1" group-title="South Collection", Stephen (2025)
 https://pixeldrain.dev/api/file/dxLDBXwm?download&format=.mkv

@@ -174,7 +174,7 @@ https://pixeldrain.dev/api/file/aqc3bumJ?download&format=.mkv
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="My Fault (2023)" tvg-language="english" type="movie" tvg-season="1", My Fault (2023)
+#EXTINF:-1 tvg-name="My Fault (2023)" tvg-language="english" tvg-logo="https://image.tmdb.org/t/p/original/w46Vw536HwNnEzOa7J24YH9DPRS.jpg" type="movie" tvg-season="1" group-title="Hollywood Collection", My Fault (2023)
 https://pixeldrain.dev/api/file/WXTJ6hoz?download&format=.mkv
 
 #EXTINF:-1 tvg-name="The Toxic Avenger (2024)" tvg-language="english" tvg-logo="https://image.tmdb.org/t/p/original/cCWojb6N9UcTzNVtS4bOM3vQ30x.jpg" type="movie" group-title="Hollywood Collection", The Toxic Avenger (2024)

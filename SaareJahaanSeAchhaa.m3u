@@ -173,6 +173,11 @@ https://pixeldrain.dev/api/file/aqc3bumJ?download&format=.mkv
 
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Our Fault (2025)" tvg-language="english" tvg-logo="https://image.tmdb.org/t/p/original/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg" type="movie" tvg-season="1" group-title="Hollywood Collection", Our Fault (2025)
+https://pixeldrain.dev/api/file/qU9TH42H?download&format=.mkv
+
+#EXTINF:-1 tvg-name="Your Fault (2024)" tvg-language="english" tvg-logo="https://image.tmdb.org/t/p/original/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg" type="movie" tvg-season="1" group-title="Hollywood Collection", Your Fault (2024)
+https://pixeldrain.dev/api/file/qSCgT1zA?download&format=.mkv
 
 #EXTINF:-1 tvg-name="My Fault (2023)" tvg-language="english" tvg-logo="https://image.tmdb.org/t/p/original/w46Vw536HwNnEzOa7J24YH9DPRS.jpg" type="movie" tvg-season="1" group-title="Hollywood Collection", My Fault (2023)
 https://pixeldrain.dev/api/file/WXTJ6hoz?download&format=.mkv

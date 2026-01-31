@@ -3,6 +3,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Mardaani 3 (2026) CamRip" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/dHxLBtHw4InwsVumnthupZYz6NM.jpg" type="movie" tvg-season="1" group-title="𝗟𝗔𝗧𝗘𝗦𝗧×𝗕𝗢𝗟𝗟𝗬 ◤ 𝟮𝟬𝟮𝟲", Mardaani 3 (2026) CamRip
+https://pixeldrain.dev/api/file/szJMqRPY?download&format=.mkv
+
 #EXTINF:-1 tvg-name="Border 2 (2026)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg" type="movie" tvg-season="1" group-title="𝗟𝗔𝗧𝗘𝗦𝗧×𝗕𝗢𝗟𝗟𝗬 ◤ 𝟮𝟬𝟮𝟲", Border 2 (2026)
 https://pixeldrain.dev/api/file/H7gbUyKd?download&format=.mkv
 
@@ -530,6 +533,9 @@ https://pixeldrain.dev/api/file/WfeHxyV1?download&format=.mkv
 
 
 #EXTM3U
+
+#EXTINF:-1 tvg-name="Gandhi Talks (2013)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/p4iQT3s97T3gQOLhTj0UplzYMOj.jpg" type="movie" tvg-season="1" group-title="South Collection", Gandhi Talks (2013)
+https://pixeldrain.dev/api/file/fUm2QzLL?download&format=.mkv
 
 #EXTINF:-1 tvg-name="Eko • HQ (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/tXdFEmtqLm8tewIErDJgnbTS9qs.jpg" type="movie" tvg-season="1" group-title="South Collection", Eko • HQ (2025)
 https://pixeldrain.dev/api/J7wav2Fe?download&format=.mkv

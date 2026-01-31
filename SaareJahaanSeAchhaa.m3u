@@ -21,12 +21,11 @@ https://pixeldrain.dev/api/file/whhr19wC?download&format=.mkv
 
 #EXTM3U                                    ********** LATEST BOLLYWOOD 2025 **********
 
+#EXTINF:-1 tvg-name="Dhurandhar (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/1jUSvLOn6kg1z4GpJwUfY0qMhp6.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Dhurandhar (2025)
+https://pixeldrain.dev/api/file/hPS8BnQH?download&format=.mkv
 
 #EXTINF:-1 tvg-name="Baahubali: The Epic (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/4sLSorDKKDN944kWngxgQlpdDeg.jpg" type="movie", tvg-season="1" group-title="Latest Bollywood 2025", Baahubali: The Epic (2025)
 https://pixeldrain.dev/api/file/daqq7sKi?download&format=.mkv
-
-#EXTINF:-1 tvg-name="Dhurandhar (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/1jUSvLOn6kg1z4GpJwUfY0qMhp6.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Dhurandhar (2025)
-https://pixeldrain.dev/api/file/4TuDjnut
 
 #EXTINF:-1 tvg-name="Ek Deewane Ki Deewaniyat (2025)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg" type="movie" tvg-season="1" group-title="Latest Bollywood 2025", Ek Deewane Ki Deewaniyat (2025)
 https://pixeldrain.dev/api/file/yesXy7cg

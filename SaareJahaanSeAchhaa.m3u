@@ -494,6 +494,9 @@ https://pixeldrain.dev/api/file/NywHVNqn?download&format=.mkv
 
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Dil Hai Tumhaara (2002) • HQ" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/6DkO7aZTZtXNESGcSq3R1wmrb06.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Dil Hai Tumhaara (2002) • HQ
+https://white-math-f062.ayushbansal7974-d0e.workers.dev/0:/Bollywood%20Romantic%20/Dil.Hai.Tumhara.2002.1080p.AMZN.WEB-DL.Hindi.DDP.5.1.H264.mkv
+
 #EXTINF:-1 tvg-name="Tere Naam (2003)" tvg-language="hindi" tvg-logo="https://image.tmdb.org/t/p/original/tnsOmOZsVdfLLwK693TCtSZpvFX.jpg" type="movie" tvg-season="1" group-title="Bollywood Romantic", Tere Naam (2003)
 https://pixeldrain.dev/api/file/gJEvX8aP?download&format=.mkv
 

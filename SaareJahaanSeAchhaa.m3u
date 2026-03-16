@@ -129,6 +129,10 @@ https://pixeldrain.dev/api/file/YiAwiMWV?download?download&format=.mkv
 
 
 #EXTM3U
+#EXTM3U
+
+#EXTINF:-1 tvg-id="kis.kisko.pyaar.karoon.2015" tvg-name="Kis Kisko Pyaar Karoon" tvg-logo="https://image.tmdb.org/t/p/original/e3fZkrzWlgX3QDmQelygxKpyB2I.jpg" tvg-language="Hindi" type="movie" group-title="Bollywood Collection" year="2015",Kis Kisko Pyaar Karoon (2015)
+https://pixeldrain.dev/api/file/1yE2Ggaz
 
 #EXTINF:-1 tvg-name="Shahkot (2024)" tvg-language="punjabi" tvg-logo="https://image.tmdb.org/t/p/original/81jPpZNvBP4t1mFXiZSBfC0pcpN.jpg" type="movie" tvg-season="1" group-title="Bollywood Collection", Shahkot (2024)
 https://pixeldrain.dev/api/file/3p71e2b3?download&format=.mkv
